@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/isc415-practica7-20110839.iml" filepath="$PROJECT_DIR$/.idea/modules/isc415-practica7-20110839.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/isc415-practica7-20110839_main.iml" filepath="$PROJECT_DIR$/.idea/modules/isc415-practica7-20110839_main.iml" group="isc415-practica7-20110839" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/isc415-practica7-20110839_test.iml" filepath="$PROJECT_DIR$/.idea/modules/isc415-practica7-20110839_test.iml" group="isc415-practica7-20110839" />
+    </modules>
+  </component>
+</project>

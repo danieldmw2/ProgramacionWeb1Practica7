@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.heroku.sdk:heroku-deploy:1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.heroku.sdk/heroku-deploy/1.0.3/75df019094a6961c9f97d83d1838f3c5cca8cf4b/heroku-deploy-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.heroku.sdk/heroku-deploy/1.0.3/a88183d304696680bd64466f5e5b3ed6c95954d7/heroku-deploy-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

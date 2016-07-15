@@ -1,0 +1,56 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gradle : Daniel : app-1.0-SNAPSHOT.war (exploded)">
+    <output-path>$PROJECT_DIR$/out/artifacts/isc415-practica7-20110839/exploded/app-1.0-SNAPSHOT.war</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="isc415-practica7-20110839_main/web/Web Gradle : app-1.0-SNAPSHOT.war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="isc415-practica7-20110839_main" />
+          <element id="dir-copy" path="$PROJECT_DIR$/build/resources/main" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: com.sparkjava:spark-core:2.5" />
+          <element id="library" level="project" name="Gradle: com.sparkjava:spark-template-freemarker:2.3" />
+          <element id="library" level="project" name="Gradle: com.h2database:h2:1.4.191" />
+          <element id="library" level="project" name="Gradle: org.slf4j:slf4j-simple:1.7.21" />
+          <element id="library" level="project" name="Gradle: com.heroku.sdk:heroku-deploy:1.0.3" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-server:9.3.6.v20151106" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-webapp:9.3.6.v20151106" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty.websocket:websocket-server:9.3.6.v20151106" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty.websocket:websocket-servlet:9.3.6.v20151106" />
+          <element id="library" level="project" name="Gradle: org.freemarker:freemarker:2.3.19" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.3.0" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.3.0" />
+          <element id="library" level="project" name="Gradle: org.apache.commons:commons-compress:1.10" />
+          <element id="library" level="project" name="Gradle: commons-io:commons-io:2.4" />
+          <element id="library" level="project" name="Gradle: org.apache.commons:commons-lang3:3.3.2" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jgit:org.eclipse.jgit:3.6.2.201501210735-r" />
+          <element id="library" level="project" name="Gradle: org.apache.httpcomponents:httpclient:4.4" />
+          <element id="library" level="project" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.3.0" />
+          <element id="library" level="project" name="Gradle: com.jcraft:jsch:0.1.50" />
+          <element id="library" level="project" name="Gradle: com.googlecode.javaewah:JavaEWAH:0.7.9" />
+          <element id="library" level="project" name="Gradle: org.slf4j:slf4j-api:1.7.21" />
+          <element id="library" level="project" name="Gradle: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-http:9.3.6.v20151106" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-io:9.3.6.v20151106" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-xml:9.3.6.v20151106" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-servlet:9.3.6.v20151106" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty.websocket:websocket-common:9.3.6.v20151106" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty.websocket:websocket-client:9.3.6.v20151106" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty.websocket:websocket-api:9.3.6.v20151106" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-util:9.3.6.v20151106" />
+          <element id="library" level="project" name="Gradle: org.eclipse.jetty:jetty-security:9.3.6.v20151106" />
+          <element id="library" level="project" name="Gradle: org.apache.httpcomponents:httpcore:4.4" />
+          <element id="library" level="project" name="Gradle: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Gradle: commons-codec:commons-codec:1.9" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/isc415-practica7-20110839/exploded/app-1.0-SNAPSHOT.war/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
