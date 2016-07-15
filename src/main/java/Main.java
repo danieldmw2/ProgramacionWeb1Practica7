@@ -110,6 +110,7 @@ public class Main
 
         post("/updateDB", (req, res) -> {
             Database.executeUpdate(new String[]{ req.queryParams("matricula"), req.queryParams("nombre"), req.queryParams("apellidos"), req.queryParams("telefono")}, req.queryParams("hiddenBox"));
+            Database.commit();
             res.redirect("/home");
             return null;
         });
@@ -121,6 +122,7 @@ public class Main
             else
             {
                 Database.executeDelete(req.queryParams("matricula"));
+                Database.commit();
                 res.redirect("/home");
             }
             return null;

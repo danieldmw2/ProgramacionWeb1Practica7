@@ -79,4 +79,17 @@ public class Database
             return false;
         }
     }
+
+    public static boolean commit()
+    {
+        try
+        {
+            getConnection().commit();
+            return true;
+        }
+        catch (SQLException e)
+        {
+            return false;
+        }
+    }
 }
